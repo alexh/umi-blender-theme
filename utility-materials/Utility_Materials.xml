@@ -108,16 +108,16 @@
         </wcol_text>
         <wcol_option>
           <ThemeWidgetColors
-            outline="#3c3836ff"
-            inner="#3c3836ff"
-            inner_sel="#ff6900dd"
+            outline="#665c54ff"
+            inner="#504945ff"
+            inner_sel="#ff6900ff"
             item="#fbf1c7ff"
             text="#d5c4a1"
             text_sel="#fbf1c7"
             show_shaded="TRUE"
             shadetop="-16"
             shadedown="37"
-            roundness="0"
+            roundness="0.644737"
             >
           </ThemeWidgetColors>
         </wcol_option>
@@ -183,10 +183,10 @@
         </wcol_box>
         <wcol_menu>
           <ThemeWidgetColors
-            outline="#282828ff"
-            inner="#3c3836ff"
+            outline="#665c54ff"
+            inner="#32302fff"
             inner_sel="#ff6900ff"
-            item="#ff6900ff"
+            item="#928374ff"
             text="#d5c4a1"
             text_sel="#fbf1c7"
             show_shaded="FALSE"
@@ -243,11 +243,11 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#282828ff"
-            inner="#fbf1c7ff"
-            inner_sel="#282828ef"
-            item="#282828ef"
-            text="#282828"
+            outline="#665c54ff"
+            inner="#504945ff"
+            inner_sel="#504945ff"
+            item="#504945ff"
+            text="#fbf1c7"
             text_sel="#fbf1c7"
             show_shaded="FALSE"
             shadetop="25"
@@ -259,15 +259,15 @@
         <wcol_menu_item>
           <ThemeWidgetColors
             outline="#00000000"
-            inner="#3c383600"
+            inner="#504945ff"
             inner_sel="#ff6900e6"
-            item="#ff69008f"
+            item="#504945ff"
             text="#d5c4a1"
             text_sel="#fbf1c7"
             show_shaded="FALSE"
             shadetop="-80"
             shadedown="0"
-            roundness="0"
+            roundness="0.644737"
             >
           </ThemeWidgetColors>
         </wcol_menu_item>
@@ -303,11 +303,11 @@
         </wcol_progress>
         <wcol_list_item>
           <ThemeWidgetColors
-            outline="#3c3836ff"
+            outline="#665c54ff"
             inner="#28282800"
             inner_sel="#ff6900ff"
-            item="#ff690033"
-            text="#d5c4a1"
+            item="#504945ff"
+            text="#fbf1c7"
             text_sel="#fbf1c7"
             show_shaded="FALSE"
             shadetop="0"
@@ -430,11 +430,11 @@
         >
         <space>
           <ThemeSpaceGradient
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#00000000"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#ff6900"
@@ -512,11 +512,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c3836e6"
             button_title="#ff6900"
@@ -542,8 +542,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#504945"
-            list_title="#282828"
-            list_text="#282828"
+            list_title="#ff6900"
+            list_text="#d5c4a1"
             list_text_hi="#fbf1c7"
             >
           </ThemeSpaceListGeneric>
@@ -558,11 +558,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#665c54"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#ff6900"
@@ -617,11 +617,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -647,8 +647,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#504945"
-            list_title="#282828"
-            list_text="#282828"
+            list_title="#ff6900"
+            list_text="#d5c4a1"
             list_text_hi="#fbf1c7"
             >
           </ThemeSpaceListGeneric>
@@ -693,11 +693,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -723,8 +723,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#504945"
-            list_title="#282828"
-            list_text="#282828"
+            list_title="#ff6900"
+            list_text="#d5c4a1"
             list_text_hi="#fbf1c7"
             >
           </ThemeSpaceListGeneric>
@@ -781,11 +781,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#ff6900"
@@ -849,11 +849,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
+            title="#ff6900"
             text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#ff6900"
@@ -896,10 +896,10 @@
           <ThemeSpaceGeneric
             back="#504945"
             title="#fbf1c7"
-            text="#282828"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -914,8 +914,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#3c383600"
-                back="#3c3836f0"
+                header="#282828ff"
+                back="#282828ff"
                 sub_back="#2828280f"
                 >
               </ThemePanelColors>
@@ -928,7 +928,7 @@
       <ThemeTextEditor
         line_numbers="#d5c4a1"
         line_numbers_background="#282828"
-        selected_text="#282828"
+        selected_text="#d5c4a1"
         cursor="#fb4934"
         syntax_builtin="#fb4934"
         syntax_symbols="#fe8019"
@@ -942,11 +942,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#282828"
-            title="#282828"
+            title="#ff6900"
             text="#ebdbb2"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -1038,8 +1038,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#665c54"
-            list_title="#282828"
-            list_text="#282828"
+            list_title="#ff6900"
+            list_text="#d5c4a1"
             list_text_hi="#fbf1c7"
             >
           </ThemeSpaceListGeneric>
@@ -1059,11 +1059,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#665c54"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -1091,25 +1091,25 @@
     <info>
       <ThemeInfo
         info_selected="#83a598"
-        info_selected_text="#282828"
+        info_selected_text="#d5c4a1"
         info_error="#fb4934ff"
-        info_error_text="#282828"
+        info_error_text="#d5c4a1"
         info_warning="#fabd2fff"
-        info_warning_text="#282828"
+        info_warning_text="#d5c4a1"
         info_info="#458588ff"
-        info_info_text="#282828"
+        info_info_text="#d5c4a1"
         info_debug="#d3869bff"
-        info_debug_text="#282828"
+        info_debug_text="#d5c4a1"
         info_property="#98971aff"
-        info_property_text="#282828"
+        info_property_text="#d5c4a1"
         info_operator="#98971aff"
-        info_operator_text="#282828"
+        info_operator_text="#d5c4a1"
         >
         <space>
           <ThemeSpaceGeneric
             back="#665c54"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
             header_text="#ebdbb2"
@@ -1143,14 +1143,14 @@
           <ThemeSpaceGeneric
             back="#504945"
             title="#fbf1c7"
-            text="#282828"
+            text="#fbf1c7"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#fbf1c7"
             header_text_hi="#fbf1c7"
-            button="#3c38367f"
-            button_title="#ff6900"
-            button_text="#ff6900"
+            button="#50494567"
+            button_title="#fbf1c7"
+            button_text="#fbf1c7"
             button_text_hi="#fbf1c7"
             navigation_bar="#504945ff"
             execution_buts="#504945ff"
@@ -1161,8 +1161,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#3c383600"
-                back="#3c3836f0"
+                header="#282828ff"
+                back="#282828ff"
                 sub_back="#2828280f"
                 >
               </ThemePanelColors>
@@ -1187,7 +1187,7 @@
             text="#ebdbb2"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#fbf1c7"
@@ -1248,11 +1248,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#3c3836"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#3c38367f"
             button_title="#ff6900"
@@ -1278,8 +1278,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#665c54"
-            list_title="#282828"
-            list_text="#282828"
+            list_title="#ff6900"
+            list_text="#d5c4a1"
             list_text_hi="#fbf1c7"
             >
           </ThemeSpaceListGeneric>
@@ -1291,11 +1291,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#ff9040"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#ff6900ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#ff7920ff"
             button_title="#fbf1c7"
@@ -1361,11 +1361,11 @@
         <space>
           <ThemeSpaceGeneric
             back="#665c54"
-            title="#282828"
-            text="#282828"
+            title="#ff6900"
+            text="#d5c4a1"
             text_hi="#fbf1c7"
             header="#504945ff"
-            header_text="#282828"
+            header_text="#d5c4a1"
             header_text_hi="#fbf1c7"
             button="#00000000"
             button_title="#ff6900"
@@ -1391,7 +1391,7 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#504945"
-            list_title="#d5c4a1"
+            list_title="#ff6900"
             list_text="#d5c4a1"
             list_text_hi="#83a598"
             >

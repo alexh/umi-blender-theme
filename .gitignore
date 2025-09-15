@@ -1,1 +1,18 @@
 inspo/
+*.DS_Store*
+
+# Build artifacts
+build/
+dist/
+*.zip
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Blender backups
+*.blend1
+*.blend2
