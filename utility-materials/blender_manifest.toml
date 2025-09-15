@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "utility_materials"
+version = "1.0.0"
+name = "Utility Materials"
+tagline = "Industrial design theme in the Utility Materials universe"
+maintainer = "Alex H <alex@utility.materials.nyc>"
+type = "theme"
+website = "https://github.com/alexh/umi-blender-theme"
+tags = ["Dark", "Retro", "Utility Materials"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
