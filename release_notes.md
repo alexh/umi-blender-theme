@@ -1,5 +1,8 @@
 # Release Notes
 
+## v1.0.1 - Patch Metadata
+- Update extension metadata
+
 ## v1.0.0 - Initial Release
 
 ### Features
