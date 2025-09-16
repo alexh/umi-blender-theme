@@ -8,3 +8,6 @@ A bold Blender theme inspired by Utility Materials clothing brand aesthetics. Fe
 - High-contrast cream text for maximum readability
 - Industrial-inspired color coding throughout the interface
 - Optimized for long material editing and modeling sessions
+
+## Font Recommendations
+I recommend using this theme with Monaspace Krypton, which can be found [on github](https://github.com/githubnext/monaspace).
