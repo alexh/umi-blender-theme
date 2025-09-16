@@ -557,7 +557,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#665c54"
+            back="#3c3836"
             title="#ff6900"
             text="#d5c4a1"
             text_hi="#fbf1c7"
@@ -572,8 +572,8 @@
             execution_buts="#504945e6"
             tab_active="#fabd2f"
             tab_inactive="#fbf1c7"
-            tab_back="#665c54ff"
-            tab_outline="#665c54ff"
+            tab_back="#3c3836ff"
+            tab_outline="#3c3836ff"
             >
             <panelcolors>
               <ThemePanelColors

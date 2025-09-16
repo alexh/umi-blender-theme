@@ -7,7 +7,7 @@ tagline = "Industrial design theme in the Utility Materials universe"
 maintainer = "Alex H <alex@utility.materials.nyc>"
 type = "theme"
 website = "https://github.com/alexh/umi-blender-theme"
-tags = ["Dark", "Retro", "Utility Materials"]
+tags = ["Dark", "Inspired By"]
 blender_version_min = "4.2.0"
 license = [
   "SPDX:GPL-2.0-or-later",

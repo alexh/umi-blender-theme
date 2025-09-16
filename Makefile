@@ -21,7 +21,7 @@ build:
 	@echo "Building Utility Materials theme extension using Blender CLI..."
 	@mkdir -p $(DIST_DIR)
 	@if command -v $(BLENDER) >/dev/null 2>&1; then \
-		cd $(THEME_DIR) && $(BLENDER) --command extension build --valid-tags ../valid-tags.json --output-dir ../$(DIST_DIR); \
+		cd $(THEME_DIR) && $(BLENDER) --command extension build --output-dir ../$(DIST_DIR); \
 		echo "✓ Extension built successfully"; \
 		echo "  Output: $(DIST_DIR)/*.zip"; \
 		ls -lh $(DIST_DIR)/*.zip 2>/dev/null || true; \

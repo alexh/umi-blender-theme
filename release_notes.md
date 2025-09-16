@@ -1,0 +1,25 @@
+# Release Notes
+
+## v1.0.0 - Initial Release
+
+### Features
+- Complete Utility Materials branded theme for Blender
+- Custom color scheme across all editor types:
+  - 3D Viewport with orange selection highlights
+  - Node Editor with industrial-inspired node colors
+  - Properties panel with dark backgrounds
+  - Text Editor with syntax highlighting
+  - Outliner with improved contrast
+- Optimized widget colors and roundness for modern UI feel
+- Custom topbar styling with signature orange branding
+- Consistent color application across all Blender workspaces
+
+### Compatibility
+- Blender 4.0+
+- All operating systems
+
+### Installation
+1. Download the Utility_Materials.xml file
+2. Open Blender Preferences > Themes
+3. Click "Install..." and select the XML file
+4. Select "Utility Materials" from the theme dropdown
