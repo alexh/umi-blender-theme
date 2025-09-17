@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.1.0 - Fix Sidebar Styling
+
+### Features
+- Fix sidebar styling in File Browser
+- Fix sidebar styling in Spreadsheet
+
 ## v1.0.1 - Patch Metadata
 - Update extension metadata
 
