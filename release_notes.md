@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.1.1 - Fix Sidebar Styling in File Picker & Asset Browser
+
+### Features
+- Fix sidebar styling in Asset Browser
+- Fix sidebar styling in File Picker Popup
+
 ## v1.1.0 - Fix Sidebar Styling
 
 ### Features
